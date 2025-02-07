@@ -16,6 +16,8 @@ npx bun build --compile index.js server/main.js
 
 Bun supports cross-compiling but webview-nodejs doesn't. So before https://github.com/Winterreisender/webview-nodejs/issues/29 is done, it's recommend to build in each platform.
 
+We also need to copy some files, see  [release page](https://github.com/Winterreisender/webview-nodejs-demo-app/releases). This could be avoid in the feature.
+
 ## License
 
 Apache-2.0

@@ -1,5 +1,6 @@
 # webview-nodejs-demo-app
 A full demo app for webview-nodejs to "Eat your own dogfood".  
+You can download the executable binary in the [release page](https://github.com/Winterreisender/webview-nodejs-demo-app/releases) 
 
 ```bash
 npm start

@@ -1,0 +1,11 @@
+{
+  "name": "webview-nodejs-demo-app",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "npm run --prefix web build"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "webview-nodejs": "^0.5.0-dev.1"
+  }
+}

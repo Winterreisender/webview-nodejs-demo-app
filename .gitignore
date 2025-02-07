@@ -1,3 +1,5 @@
+*.blob
+build/
 # Logs
 logs
 *.log

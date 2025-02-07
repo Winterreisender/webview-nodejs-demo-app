@@ -1,5 +1,7 @@
 *.blob
 build/
+*.exe
+
 # Logs
 logs
 *.log

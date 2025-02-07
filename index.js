@@ -1,6 +1,6 @@
-const {Worker} = require('worker_threads');
-const {Webview} = require('webview-nodejs').createRequire();
-
+import {Worker} from 'worker_threads';
+import {Webview} from 'webview-nodejs';
+import dummy from "libwebview-nodejs/package.json" with { type: "file" };
 
 const worker = new Worker("./server/main.js")
 
